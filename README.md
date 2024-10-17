@@ -9,5 +9,3 @@ The Frog Leap Puzzle is a classic puzzle game where two sets of frogs (left and 
 2. Frogs can move forward one space or jump over another frog from the opposite side to move two spaces.
 3. The puzzle is solved when the two sets of frogs have completely switched positions.
 
-
-
